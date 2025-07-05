@@ -1,6 +1,6 @@
 ##  Live API
 
-Your AI Price Prediction backend is live and publicly accessible.
+ AI Price Prediction backend is live and publicly accessible.
 
 - **Base URL**: [https://harit-setu.onrender.com](https://harit-setu.onrender.com)
 - **API Endpoint**:  
