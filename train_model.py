@@ -51,11 +51,11 @@ model.fit(X_train, y_train)
 y_pred_log = model.predict(X_test)
 y_pred = np.exp(y_pred_log)  # convert back from log
 rmse = np.sqrt(mean_squared_error(np.exp(y_test), y_pred))
-print(f"✅ Model trained successfully.")
-print(f"✅ RMSE: {rmse:.4f} ₹/kg")
+print(f" Model trained successfully.")
+print(f" RMSE: {rmse:.4f} ₹/kg")
 
 # ----------- 9. SAVE THE MODEL -----------
 os.makedirs("models", exist_ok=True)
 joblib.dump(model, MODEL_PATH)
-print(f"✅ Model saved to: {MODEL_PATH}")
+print(f" Model saved to: {MODEL_PATH}")
 
