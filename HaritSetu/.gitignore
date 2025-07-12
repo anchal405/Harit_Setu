@@ -1,0 +1,62 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+# node modules (both frontend & functions)
+node_modules/
+functions/node_modules/
+
+# build outputs
+dist/
+build/
+.vite/
+
+# env files (sensitive keys)
+.env
+.env.local
+.env.development
+.env.production
+
+# firebase local emulators, logs
+firebase-debug.log
+.firebaserc
+.firebase/
+
+# macOS system files (if applicable)
+.DS_Store
+
+# VSCode settings (optional, but common)
+.vscode/
+
+# OS trash folder (optional)
+.Trash/
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# lockfiles if you're not using them (optional)
+package-lock.json
+pnpm-lock.yaml
