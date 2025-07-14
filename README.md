@@ -1,4 +1,7 @@
 # HaritSetu – Sell Smart Stay Green, No Smoke In Between
+<p align="center">
+  <img src="./assets/HaritSetu_Diagram.png" alt="HaritSetu Diagram" width="100%">
+</p>
 
 ## 🔗 Project Links
 
