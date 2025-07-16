@@ -6,7 +6,7 @@
 ##  System Architecture
 
 <p align="center">
-  <img src="assets/HaritSetu_High_Level_Architecture.svg" alt="HaritSetu Architecture"/>
+  <img src="assets/HaritSetu_High_Level_Architecture.png" alt="HaritSetu High Level Architecture"/>
 </p>
 
 
