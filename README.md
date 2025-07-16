@@ -2,6 +2,7 @@
 <p align="center">
   <img src="assets/HaritSetu_Logo.png" alt="HaritSetu Logo" width="300"/>
 </p>
+
 ##  System Architecture
 
 <p align="center">
