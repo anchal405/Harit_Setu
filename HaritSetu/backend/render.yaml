@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: chatbot-backend
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: gunicorn chatbot:app
+    envVars:
+      - key: FLASK_ENV
+        value: production
+    autoDeploy: true

@@ -1,0 +1,501 @@
+crop_type,residue_type,state,district,month,quantity_kg,price_per_kg
+Rice,Husk,Haryana,Rohtak,10,1427,3.431782577927553
+Rice,Husk,Uttar Pradesh,Baghpat,8,2267,1.6293668368233225
+Rice,Husk,Punjab,Ludhiana,9,4552,2.2921024987112153
+Rice,Husk,Haryana,Hisar,6,1526,3.4526083192191885
+Rice,Husk,Punjab,Sangrur,12,4610,2.8310139901663467
+Rice,Husk,Punjab,Ludhiana,2,2888,3.0224566058145896
+Rice,Straw,Haryana,Karnal,8,1148,2.6754144755474227
+Rice,Straw,Uttar Pradesh,Baghpat,2,4596,1.5183901636562929
+Rice,Husk,Haryana,Karnal,5,2606,2.6833172108654804
+Rice,Husk,Haryana,Rohtak,4,2703,1.979305084813402
+Rice,Straw,Haryana,Rohtak,9,1799,2.758968784204698
+Rice,Husk,Haryana,Hisar,6,2883,2.2168099516278756
+Rice,Straw,Haryana,Karnal,5,1900,3.2160876419830524
+Rice,Straw,Haryana,Karnal,10,2900,2.3056229319842627
+Rice,Straw,Punjab,Amritsar,8,1207,2.6872601577745385
+Rice,Husk,Punjab,Amritsar,1,513,2.604516579011472
+Rice,Husk,Haryana,Rohtak,6,941,1.788638186198034
+Rice,Straw,Uttar Pradesh,Baghpat,11,3020,2.9355072126834094
+Rice,Straw,Uttar Pradesh,Baghpat,2,2976,1.835624763514825
+Rice,Husk,Uttar Pradesh,Meerut,9,3734,2.2774327465837967
+Rice,Straw,Punjab,Ludhiana,6,4872,2.510103733023989
+Rice,Straw,Haryana,Hisar,11,4380,2.519087777144705
+Rice,Straw,Uttar Pradesh,Meerut,8,2229,2.2023721253149855
+Rice,Husk,Uttar Pradesh,Meerut,5,4476,2.2647238749674177
+Rice,Husk,Punjab,Amritsar,2,4456,2.111135544199681
+Rice,Husk,Haryana,Rohtak,12,552,2.072424844218933
+Rice,Husk,Uttar Pradesh,Meerut,6,648,1.8388295269532655
+Rice,Husk,Punjab,Bathinda,9,3732,2.702971021704016
+Rice,Straw,Punjab,Bathinda,11,2098,3.3723807205007024
+Rice,Husk,Haryana,Hisar,6,642,2.3032219199137236
+Rice,Husk,Haryana,Karnal,11,4610,3.182275705851911
+Rice,Straw,Uttar Pradesh,Meerut,9,843,1.6612142475138352
+Rice,Husk,Punjab,Amritsar,6,1843,3.1236524751417623
+Rice,Husk,Punjab,Sangrur,2,2492,2.6889168089868827
+Rice,Husk,Uttar Pradesh,Meerut,2,2147,2.2513411021987384
+Rice,Husk,Punjab,Ludhiana,10,2327,3.09190478944015
+Rice,Husk,Punjab,Ludhiana,11,4482,3.468847254623267
+Rice,Straw,Haryana,Hisar,7,3258,2.1800591325411105
+Rice,Straw,Haryana,Karnal,10,1215,2.697526012455545
+Rice,Husk,Punjab,Bathinda,6,4835,2.6743636590252646
+Rice,Husk,Uttar Pradesh,Baghpat,10,3316,2.763077079465
+Rice,Straw,Haryana,Karnal,6,3126,1.9906397036203338
+Rice,Straw,Haryana,Rohtak,2,708,3.2487729988352267
+Rice,Straw,Haryana,Sonipat,1,818,2.905413700267926
+Rice,Straw,Uttar Pradesh,Baghpat,3,4339,3.4107790831057674
+Rice,Straw,Haryana,Karnal,4,1895,2.1877191264646063
+Rice,Straw,Haryana,Sonipat,6,4761,2.9027199047320402
+Rice,Straw,Uttar Pradesh,Meerut,1,3285,2.257966082848264
+Rice,Straw,Haryana,Karnal,8,2303,2.868437898192971
+Rice,Husk,Haryana,Rohtak,9,2504,2.8655809768224048
+Rice,Husk,Punjab,Ludhiana,6,2869,3.2188687132406297
+Rice,Straw,Punjab,Sangrur,10,1031,2.843542349500779
+Rice,Husk,Uttar Pradesh,Baghpat,5,2260,3.0493505497447364
+Rice,Husk,Punjab,Bathinda,9,748,1.8559470700560283
+Rice,Straw,Haryana,Rohtak,11,1788,2.075083651702441
+Rice,Husk,Punjab,Sangrur,6,1709,3.4159691967757695
+Rice,Straw,Punjab,Bathinda,1,3575,3.03795552141289
+Rice,Straw,Haryana,Hisar,2,4892,2.168125362842151
+Rice,Straw,Uttar Pradesh,Baghpat,2,3182,2.053364886499998
+Rice,Straw,Uttar Pradesh,Meerut,8,4141,2.843974820928973
+Rice,Straw,Uttar Pradesh,Baghpat,1,1767,3.1529214961418677
+Rice,Straw,Punjab,Bathinda,5,1606,1.6328963720501013
+Rice,Straw,Punjab,Sangrur,1,3776,2.554364643165137
+Rice,Straw,Uttar Pradesh,Baghpat,10,4765,2.7011590733703557
+Rice,Straw,Haryana,Hisar,12,574,2.387867817052685
+Rice,Straw,Uttar Pradesh,Baghpat,4,2353,3.225474207651038
+Rice,Husk,Uttar Pradesh,Baghpat,10,4997,3.076885040250275
+Rice,Husk,Haryana,Hisar,10,1341,2.6948256079739568
+Rice,Straw,Punjab,Ludhiana,1,3634,3.2693837919258044
+Maize,Stover,Punjab,Sangrur,2,936,3.034746502956427
+Maize,Stover,Haryana,Sonipat,5,2271,1.7103417847305393
+Maize,Stover,Punjab,Amritsar,10,1583,3.185861944478032
+Maize,Stover,Uttar Pradesh,Baghpat,6,2635,3.0836696359219076
+Maize,Stover,Uttar Pradesh,Meerut,2,4261,2.079411207590066
+Maize,Stover,Haryana,Sonipat,5,3685,3.006207360783444
+Maize,Stover,Uttar Pradesh,Meerut,9,4106,3.153245408555863
+Maize,Stover,Haryana,Sonipat,2,4177,3.2434365295006176
+Maize,Stover,Punjab,Amritsar,6,3286,2.044413631882804
+Maize,Stover,Punjab,Bathinda,1,2992,2.633572826137163
+Maize,Stover,Punjab,Ludhiana,3,4638,3.417256731597397
+Maize,Stover,Uttar Pradesh,Meerut,8,2278,1.510583833744702
+Maize,Stover,Punjab,Bathinda,3,2861,1.6874284167914009
+Maize,Stover,Punjab,Amritsar,9,1176,1.9726729385696429
+Maize,Stover,Punjab,Ludhiana,2,4917,1.5259716368491896
+Maize,Stover,Punjab,Sangrur,11,2191,2.6249193430251143
+Maize,Stover,Haryana,Karnal,1,1707,2.6190606600413133
+Maize,Stover,Punjab,Amritsar,1,3196,1.7463908169568176
+Maize,Stover,Uttar Pradesh,Baghpat,7,3446,2.2014931321569886
+Maize,Stover,Punjab,Ludhiana,10,626,1.5498728786782578
+Maize,Stover,Haryana,Sonipat,2,1110,3.214680439650908
+Maize,Stover,Punjab,Bathinda,7,3559,3.2752856899442504
+Maize,Stover,Haryana,Hisar,9,1697,2.718328945320152
+Maize,Stover,Punjab,Bathinda,11,3637,3.2465185085903725
+Maize,Stover,Haryana,Rohtak,11,3294,1.9172803299888035
+Maize,Stover,Haryana,Karnal,4,4579,1.57967490635554
+Maize,Stover,Haryana,Karnal,12,2152,2.698064387166
+Maize,Stover,Haryana,Hisar,2,2644,1.8605373412122312
+Maize,Stover,Punjab,Bathinda,8,2071,2.6130946352997264
+Maize,Stover,Haryana,Karnal,3,2687,2.222451615738466
+Maize,Stover,Haryana,Rohtak,1,2008,2.1660141730621767
+Maize,Stover,Uttar Pradesh,Meerut,4,3093,3.102794796314013
+Maize,Stover,Haryana,Sonipat,10,4223,3.364219115981297
+Maize,Stover,Haryana,Karnal,8,2278,1.6692785155269785
+Maize,Stover,Punjab,Amritsar,6,569,2.2022794207330647
+Maize,Stover,Uttar Pradesh,Baghpat,3,4326,2.0372981016460434
+Maize,Stover,Haryana,Sonipat,10,2973,3.1095526210658715
+Maize,Stover,Haryana,Sonipat,2,4166,2.7620797115393447
+Maize,Stover,Uttar Pradesh,Baghpat,3,1445,1.9189440263024335
+Maize,Stover,Haryana,Karnal,2,2276,1.9372844390993464
+Maize,Stover,Uttar Pradesh,Meerut,3,3156,2.3621989096150955
+Maize,Stover,Haryana,Sonipat,7,3172,2.7521237160525205
+Maize,Stover,Haryana,Karnal,4,700,2.4998781318495036
+Maize,Stover,Uttar Pradesh,Baghpat,1,1604,1.9833947117969033
+Maize,Stover,Haryana,Sonipat,7,4594,2.792672368195669
+Maize,Stover,Punjab,Bathinda,11,1957,2.744423269969983
+Maize,Stover,Uttar Pradesh,Baghpat,8,3221,2.599577416738072
+Maize,Stover,Uttar Pradesh,Meerut,5,1870,1.7932359619883933
+Maize,Stover,Uttar Pradesh,Meerut,11,4464,1.715601090413795
+Maize,Stover,Haryana,Karnal,11,2392,2.5405763873947116
+Maize,Stover,Uttar Pradesh,Baghpat,12,1879,3.1564426085803854
+Maize,Stover,Haryana,Rohtak,3,4414,1.8457510534206283
+Maize,Stover,Uttar Pradesh,Baghpat,3,1773,2.6354308778199007
+Maize,Stover,Haryana,Hisar,8,2990,1.8645499472260638
+Maize,Stover,Uttar Pradesh,Meerut,12,1145,1.824949872524939
+Maize,Stover,Punjab,Sangrur,5,4979,3.04804299906904
+Maize,Stover,Punjab,Bathinda,2,1121,2.303029784361378
+Maize,Stover,Punjab,Amritsar,7,3484,2.0600853891816917
+Maize,Stover,Uttar Pradesh,Meerut,5,1567,2.0560807665899326
+Maize,Stover,Punjab,Bathinda,12,3577,2.3683002252827183
+Maize,Stover,Haryana,Sonipat,9,1367,3.200349227962784
+Maize,Stover,Punjab,Bathinda,6,4491,2.1651616223427084
+Maize,Stover,Punjab,Ludhiana,8,3668,3.305513008038541
+Maize,Stover,Haryana,Rohtak,1,2533,1.7207680846990767
+Maize,Stover,Punjab,Sangrur,7,909,1.8984604305600998
+Maize,Stover,Punjab,Ludhiana,8,837,2.0209469719195887
+Maize,Stover,Haryana,Rohtak,10,822,3.2102452633182437
+Wheat,Stubble,Punjab,Sangrur,8,3786,2.4570906162634847
+Wheat,Straw,Uttar Pradesh,Meerut,8,1818,1.8310334621375373
+Wheat,Straw,Punjab,Amritsar,6,750,2.764060163784846
+Wheat,Straw,Punjab,Ludhiana,9,3239,2.4505408776947637
+Wheat,Stubble,Haryana,Hisar,7,3459,1.7769603827827245
+Wheat,Straw,Uttar Pradesh,Meerut,12,1536,2.304572648080139
+Wheat,Straw,Haryana,Rohtak,10,2074,2.7575332438022704
+Wheat,Stubble,Haryana,Sonipat,12,4039,2.9198527717703304
+Wheat,Stubble,Uttar Pradesh,Meerut,2,2850,2.128869406307849
+Wheat,Straw,Uttar Pradesh,Meerut,4,1089,1.4085216848757578
+Wheat,Stubble,Haryana,Hisar,5,3956,2.7429796918026415
+Wheat,Stubble,Punjab,Bathinda,4,2079,2.0271395951605515
+Wheat,Straw,Uttar Pradesh,Meerut,12,2004,1.514441330403133
+Wheat,Straw,Uttar Pradesh,Meerut,1,3319,2.3478722202424804
+Wheat,Stubble,Haryana,Rohtak,2,4477,2.2276894311865076
+Wheat,Stubble,Uttar Pradesh,Meerut,3,770,1.8924494021845228
+Wheat,Stubble,Haryana,Rohtak,5,4929,2.1232620296547684
+Wheat,Straw,Haryana,Rohtak,7,593,2.4314911208882344
+Wheat,Straw,Punjab,Amritsar,7,984,2.302671131216537
+Wheat,Stubble,Haryana,Hisar,3,2218,1.7397103144115897
+Wheat,Straw,Uttar Pradesh,Meerut,7,4881,2.832045527618411
+Wheat,Straw,Punjab,Sangrur,7,1360,1.7564574512683928
+Wheat,Stubble,Punjab,Amritsar,3,4064,1.537251076175715
+Wheat,Straw,Haryana,Rohtak,7,2813,2.344035496752219
+Wheat,Stubble,Uttar Pradesh,Baghpat,4,3658,2.3103590777720187
+Wheat,Straw,Uttar Pradesh,Meerut,9,586,2.86412334922501
+Wheat,Stubble,Haryana,Hisar,11,866,2.1046476560781167
+Wheat,Stubble,Haryana,Karnal,3,4266,2.7346857025554105
+Wheat,Straw,Punjab,Bathinda,8,2979,2.239407866157767
+Wheat,Stubble,Haryana,Sonipat,5,4357,2.904980222831706
+Wheat,Stubble,Punjab,Bathinda,2,3677,2.539508458276741
+Wheat,Stubble,Punjab,Bathinda,5,1416,2.1498259172279695
+Wheat,Stubble,Uttar Pradesh,Baghpat,6,2833,2.9603593373131143
+Wheat,Stubble,Punjab,Ludhiana,10,1187,2.7728253434553056
+Wheat,Straw,Uttar Pradesh,Baghpat,5,4138,1.4363121522647435
+Wheat,Stubble,Uttar Pradesh,Baghpat,4,820,1.4036764520784164
+Wheat,Stubble,Punjab,Ludhiana,11,1350,2.4584912218624657
+Wheat,Stubble,Uttar Pradesh,Baghpat,1,1231,2.014919321190037
+Wheat,Stubble,Punjab,Amritsar,2,1482,1.595804204415982
+Wheat,Stubble,Uttar Pradesh,Meerut,2,880,2.033723413542317
+Wheat,Stubble,Haryana,Sonipat,3,683,1.8564845683606412
+Wheat,Straw,Punjab,Amritsar,5,3178,2.1611928683681003
+Wheat,Straw,Uttar Pradesh,Meerut,5,3942,1.7937564940362734
+Wheat,Stubble,Punjab,Sangrur,4,3698,2.1618011008345186
+Wheat,Straw,Uttar Pradesh,Baghpat,5,591,1.8640710135498078
+Wheat,Straw,Haryana,Hisar,12,2452,1.4618044421896752
+Wheat,Stubble,Punjab,Bathinda,12,2193,2.8601480964305726
+Wheat,Stubble,Uttar Pradesh,Baghpat,7,1238,2.0644175230761426
+Wheat,Stubble,Haryana,Hisar,10,2021,2.134011249562255
+Wheat,Straw,Haryana,Sonipat,1,1068,2.8685708169343616
+Wheat,Stubble,Uttar Pradesh,Baghpat,6,3884,2.6863141579692615
+Wheat,Straw,Punjab,Amritsar,2,1465,2.535191808282908
+Wheat,Stubble,Uttar Pradesh,Baghpat,9,2342,2.25863506791161
+Wheat,Straw,Haryana,Hisar,12,3492,2.462166526582019
+Wheat,Stubble,Punjab,Amritsar,11,810,1.915135962138428
+Wheat,Straw,Uttar Pradesh,Baghpat,12,3766,1.977911596536642
+Wheat,Straw,Uttar Pradesh,Meerut,5,3254,2.631896195633066
+Wheat,Stubble,Haryana,Sonipat,11,3080,1.8483187351834578
+Wheat,Stubble,Punjab,Amritsar,9,4233,2.3331432699968158
+Wheat,Straw,Haryana,Sonipat,8,2239,1.848549392089787
+Wheat,Stubble,Punjab,Amritsar,7,3130,2.3005432464048
+Wheat,Straw,Uttar Pradesh,Meerut,10,3215,2.1763660869832413
+Wheat,Stubble,Punjab,Amritsar,8,2162,2.393668128827885
+Wheat,Stubble,Punjab,Amritsar,12,563,1.738861973013842
+Wheat,Stubble,Uttar Pradesh,Baghpat,1,4441,2.5327362612987523
+Wheat,Stubble,Punjab,Sangrur,2,2139,1.6107014735375935
+Wheat,Straw,Haryana,Rohtak,11,2306,2.150761911441061
+Wheat,Straw,Haryana,Rohtak,8,3906,2.6955242867430353
+Wheat,Stubble,Uttar Pradesh,Baghpat,1,1389,2.1724637105944242
+Wheat,Stubble,Uttar Pradesh,Baghpat,10,1739,1.8379867421372835
+Sugarcane,Leaves,Haryana,Rohtak,6,721,2.09848147874746
+Sugarcane,Bagasse,Uttar Pradesh,Meerut,8,711,0.8443606933731507
+Sugarcane,Bagasse,Punjab,Amritsar,11,4470,2.1360859200446694
+Sugarcane,Leaves,Uttar Pradesh,Baghpat,12,1885,2.4674419430136454
+Sugarcane,Bagasse,Haryana,Karnal,6,1445,3.242935365837004
+Sugarcane,Leaves,Punjab,Sangrur,4,1154,1.1128450869943034
+Sugarcane,Bagasse,Uttar Pradesh,Baghpat,2,3159,2.712156835066486
+Sugarcane,Leaves,Uttar Pradesh,Baghpat,4,1201,2.584859974576609
+Sugarcane,Bagasse,Haryana,Sonipat,8,2613,1.9216538863578891
+Sugarcane,Leaves,Punjab,Bathinda,4,1576,2.6290674125242766
+Sugarcane,Bagasse,Uttar Pradesh,Meerut,11,1155,1.4023638168939059
+Sugarcane,Bagasse,Haryana,Karnal,8,4182,2.6040523008036685
+Sugarcane,Leaves,Punjab,Sangrur,4,2701,2.253885059773079
+Sugarcane,Leaves,Uttar Pradesh,Baghpat,7,3191,3.1548262949689687
+Sugarcane,Leaves,Uttar Pradesh,Baghpat,11,4931,2.596269745678449
+Sugarcane,Leaves,Punjab,Bathinda,8,3788,1.5359266521697168
+Sugarcane,Leaves,Punjab,Ludhiana,10,1255,2.4085859401572414
+Sugarcane,Leaves,Haryana,Rohtak,1,4586,2.9349035413013875
+Sugarcane,Bagasse,Punjab,Bathinda,8,1345,1.9533303968761477
+Sugarcane,Leaves,Punjab,Amritsar,2,1556,1.1007211504223697
+Sugarcane,Leaves,Punjab,Bathinda,4,1871,3.0473136781084995
+Sugarcane,Leaves,Uttar Pradesh,Baghpat,12,1364,0.8918287569938113
+Sugarcane,Bagasse,Punjab,Amritsar,1,4009,1.4991140136188368
+Sugarcane,Bagasse,Uttar Pradesh,Baghpat,7,3632,1.0405069274519223
+Sugarcane,Bagasse,Haryana,Sonipat,11,1970,1.3470505506758796
+Sugarcane,Leaves,Haryana,Rohtak,3,4788,1.4876439898499314
+Sugarcane,Leaves,Uttar Pradesh,Meerut,12,945,0.8908555681093854
+Sugarcane,Bagasse,Haryana,Hisar,5,1398,1.6290224193201568
+Sugarcane,Leaves,Haryana,Karnal,3,4260,0.7225325943845641
+Sugarcane,Leaves,Haryana,Sonipat,9,3548,2.8079688427719
+Sugarcane,Leaves,Uttar Pradesh,Baghpat,11,1122,1.7281002260096323
+Sugarcane,Bagasse,Haryana,Karnal,11,3175,1.2090341490869518
+Sugarcane,Leaves,Punjab,Bathinda,1,3777,1.8529716815452004
+Sugarcane,Bagasse,Uttar Pradesh,Baghpat,12,2276,1.892582566786931
+Sugarcane,Leaves,Punjab,Amritsar,11,4290,2.2898638679503325
+Sugarcane,Leaves,Haryana,Karnal,7,2400,3.2612968642614213
+Sugarcane,Bagasse,Uttar Pradesh,Meerut,2,3444,2.1189484519822765
+Sugarcane,Bagasse,Punjab,Ludhiana,10,2184,1.3260683624644107
+Sugarcane,Bagasse,Haryana,Karnal,8,504,1.356149623240372
+Sugarcane,Bagasse,Haryana,Rohtak,11,2763,1.2563648564342558
+Sugarcane,Leaves,Uttar Pradesh,Meerut,5,2808,2.464108094010906
+Sugarcane,Bagasse,Uttar Pradesh,Baghpat,11,682,2.7390808368360076
+Sugarcane,Leaves,Uttar Pradesh,Meerut,9,2950,0.7677451255439629
+Sugarcane,Leaves,Punjab,Amritsar,8,551,1.642355151658532
+Sugarcane,Bagasse,Uttar Pradesh,Meerut,9,1418,2.489559873289646
+Sugarcane,Leaves,Punjab,Amritsar,5,4657,2.6835039854799767
+Sugarcane,Bagasse,Punjab,Sangrur,3,1625,2.99921051295839
+Sugarcane,Bagasse,Haryana,Rohtak,8,2264,2.166682429352495
+Sugarcane,Bagasse,Punjab,Ludhiana,3,3111,3.223292644908967
+Sugarcane,Leaves,Uttar Pradesh,Baghpat,3,2023,0.8943699637302898
+Sugarcane,Bagasse,Haryana,Rohtak,6,2510,1.3082837725526641
+Sugarcane,Bagasse,Punjab,Amritsar,11,4609,1.996429734545453
+Sugarcane,Leaves,Punjab,Sangrur,7,2369,1.00859045383474
+Sugarcane,Bagasse,Haryana,Rohtak,8,657,2.1891766974897346
+Sugarcane,Leaves,Haryana,Hisar,6,2167,2.4052507926649844
+Sugarcane,Bagasse,Haryana,Rohtak,6,1156,2.013397252105287
+Sugarcane,Bagasse,Punjab,Sangrur,1,662,0.9531969983579667
+Sugarcane,Leaves,Punjab,Sangrur,11,1259,2.1159032200665653
+Sugarcane,Leaves,Punjab,Bathinda,2,1522,1.6993026582971578
+Sugarcane,Leaves,Punjab,Bathinda,10,703,3.073080258498123
+Sugarcane,Leaves,Uttar Pradesh,Meerut,10,4822,2.3317852903562195
+Sugarcane,Leaves,Haryana,Hisar,4,3058,1.3559376042209763
+Sugarcane,Leaves,Haryana,Hisar,6,4288,1.8262527475539283
+Sugarcane,Bagasse,Haryana,Hisar,12,1081,1.7761303582379062
+Sugarcane,Leaves,Uttar Pradesh,Baghpat,2,3735,3.2490815373512594
+Sugarcane,Leaves,Haryana,Sonipat,7,3608,2.898839766880518
+Sugarcane,Bagasse,Haryana,Hisar,2,1098,1.7869896702759893
+Sugarcane,Bagasse,Haryana,Hisar,11,1176,1.6632032539268526
+Sugarcane,Bagasse,Punjab,Sangrur,7,1760,2.505091534333171
+Sugarcane,Leaves,Haryana,Rohtak,8,2091,2.905290029295256
+Sugarcane,Bagasse,Punjab,Sangrur,11,2787,1.6920902617040443
+Sugarcane,Leaves,Punjab,Amritsar,5,919,2.7501816431544204
+Sugarcane,Bagasse,Uttar Pradesh,Baghpat,11,3733,3.432206100708562
+Sugarcane,Bagasse,Punjab,Ludhiana,9,1119,2.554398950551515
+Sugarcane,Bagasse,Uttar Pradesh,Baghpat,10,2654,1.6303727247845956
+Mustard,Straw,Uttar Pradesh,Meerut,9,4589,2.1613895543910076
+Mustard,Straw,Haryana,Sonipat,1,1294,1.7011386468324194
+Mustard,Straw,Uttar Pradesh,Meerut,7,1676,1.5533000689323344
+Mustard,Straw,Punjab,Bathinda,5,2340,1.7895444102443439
+Mustard,Straw,Haryana,Karnal,11,3910,2.027020333096444
+Mustard,Straw,Punjab,Bathinda,5,618,1.6402432422837645
+Mustard,Straw,Haryana,Sonipat,12,3005,1.7628535635334404
+Mustard,Straw,Haryana,Rohtak,11,1772,2.030522649112058
+Mustard,Straw,Uttar Pradesh,Meerut,7,1900,1.4647147131144194
+Mustard,Straw,Punjab,Amritsar,12,4621,1.7090782677337115
+Mustard,Straw,Haryana,Rohtak,8,1644,2.581872561773601
+Mustard,Straw,Punjab,Ludhiana,10,3387,2.1712730569790626
+Mustard,Straw,Haryana,Hisar,1,2875,2.8840399377782178
+Mustard,Straw,Haryana,Karnal,1,1190,1.475345515048748
+Mustard,Straw,Uttar Pradesh,Meerut,10,4616,2.2987163769113375
+Mustard,Straw,Punjab,Ludhiana,6,1182,2.051671849044871
+Mustard,Straw,Haryana,Karnal,10,545,1.573207259993627
+Mustard,Straw,Punjab,Amritsar,12,3237,1.3505785003288122
+Mustard,Straw,Punjab,Ludhiana,8,638,2.544080684087893
+Mustard,Straw,Haryana,Sonipat,10,3264,2.360829011518037
+Mustard,Straw,Haryana,Karnal,9,1582,2.532693589785908
+Mustard,Straw,Punjab,Amritsar,5,504,2.623868193752412
+Mustard,Straw,Punjab,Amritsar,3,1349,1.622258795010647
+Mustard,Straw,Punjab,Sangrur,9,3713,2.490786395029525
+Mustard,Straw,Haryana,Karnal,7,1792,2.8884862042457313
+Mustard,Straw,Haryana,Sonipat,6,4077,1.5944035504120218
+Mustard,Straw,Uttar Pradesh,Meerut,3,2240,2.121756859112367
+Mustard,Straw,Haryana,Karnal,7,2594,2.9142102298042407
+Mustard,Straw,Uttar Pradesh,Meerut,4,3695,1.7044154885905138
+Mustard,Straw,Haryana,Rohtak,5,2389,1.627416937138544
+Mustard,Straw,Haryana,Sonipat,5,2423,2.9314996622164524
+Mustard,Straw,Haryana,Sonipat,6,2169,1.796167204967579
+Mustard,Straw,Uttar Pradesh,Meerut,1,3893,2.952004257012491
+Mustard,Straw,Uttar Pradesh,Baghpat,10,1038,2.955793450014138
+Mustard,Straw,Punjab,Bathinda,9,2316,1.4672237039253617
+Mustard,Straw,Uttar Pradesh,Meerut,3,1700,2.134348858574593
+Mustard,Straw,Uttar Pradesh,Baghpat,1,2096,2.818628221931347
+Mustard,Straw,Haryana,Karnal,12,4827,2.7311706701444964
+Mustard,Straw,Haryana,Sonipat,5,1995,2.9574991471524483
+Mustard,Straw,Punjab,Sangrur,5,4299,1.6588134295445285
+Mustard,Straw,Uttar Pradesh,Baghpat,10,3287,2.7822156897496297
+Mustard,Straw,Uttar Pradesh,Meerut,2,4625,2.2828127196711927
+Mustard,Straw,Punjab,Sangrur,2,1900,2.40705087188627
+Mustard,Straw,Haryana,Karnal,2,1401,2.5996308293195525
+Mustard,Straw,Haryana,Hisar,8,1330,2.58937179064018
+Mustard,Straw,Uttar Pradesh,Baghpat,11,4443,2.0188492344384983
+Mustard,Straw,Uttar Pradesh,Baghpat,4,2377,2.756950818924519
+Mustard,Straw,Haryana,Sonipat,10,3150,2.992966542906361
+Mustard,Straw,Uttar Pradesh,Meerut,6,3904,2.1269246954865655
+Mustard,Straw,Haryana,Sonipat,3,1946,1.3334218596642162
+Mustard,Straw,Uttar Pradesh,Baghpat,10,665,1.4155725803453076
+Mustard,Straw,Uttar Pradesh,Baghpat,7,2111,1.5099425826586759
+Mustard,Straw,Punjab,Sangrur,6,3540,2.6470134507823744
+Mustard,Straw,Punjab,Bathinda,5,705,1.7118634730873967
+Mustard,Straw,Haryana,Rohtak,5,755,2.519170120611174
+Mustard,Straw,Haryana,Sonipat,12,3628,2.941800303073004
+Mustard,Straw,Punjab,Bathinda,4,4098,2.4762036738254114
+Mustard,Straw,Haryana,Sonipat,10,1658,1.6822404550965275
+Mustard,Straw,Punjab,Ludhiana,10,4155,2.95802867309057
+Mustard,Straw,Punjab,Bathinda,2,4772,2.3526661953904933
+Mustard,Straw,Punjab,Sangrur,2,2921,1.4374774592206985
+Mustard,Straw,Punjab,Ludhiana,4,4785,1.8458372796654705
+Mustard,Straw,Uttar Pradesh,Baghpat,3,2686,2.5912148118849565
+Mustard,Straw,Uttar Pradesh,Meerut,12,3224,2.08857547193326
+Banana,Pseudo-stem,Haryana,Sonipat,10,1148,4.972449851096993
+Banana,Pseudo-stem,Haryana,Hisar,2,2381,4.5271679711608765
+Banana,Pseudo-stem,Haryana,Hisar,6,818,2.8275160509835895
+Banana,Pseudo-stem,Haryana,Hisar,12,4918,4.504489691665064
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,7,4457,1.7684440861068724
+Banana,Pseudo-stem,Haryana,Sonipat,6,1610,4.211351738607779
+Banana,Pseudo-stem,Haryana,Karnal,5,4142,3.374461463667284
+Banana,Pseudo-stem,Haryana,Rohtak,1,4400,3.765324529570718
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,4,1514,4.547979867529765
+Banana,Pseudo-stem,Haryana,Sonipat,6,4459,3.3927016918831954
+Banana,Pseudo-stem,Haryana,Karnal,11,2430,4.713594199091085
+Banana,Pseudo-stem,Haryana,Rohtak,5,880,4.095642088654373
+Banana,Pseudo-stem,Haryana,Karnal,5,2893,2.138499756773943
+Banana,Pseudo-stem,Haryana,Rohtak,3,4410,4.585576804339844
+Banana,Pseudo-stem,Haryana,Rohtak,9,3519,3.517905491700254
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,12,1417,1.5756818616906691
+Banana,Pseudo-stem,Haryana,Rohtak,9,3159,1.8788401687091705
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,6,3580,3.4597486660911696
+Banana,Pseudo-stem,Punjab,Amritsar,10,1449,4.393120252419124
+Banana,Pseudo-stem,Haryana,Hisar,1,3041,4.887980676867839
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,3,4559,3.3612000344895865
+Banana,Pseudo-stem,Punjab,Bathinda,10,4404,2.352346734569484
+Banana,Pseudo-stem,Punjab,Sangrur,12,1266,4.0794105735420105
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,11,3060,2.261371252274771
+Banana,Pseudo-stem,Haryana,Rohtak,12,1980,3.9637376361440753
+Banana,Pseudo-stem,Punjab,Amritsar,5,4929,4.885671611931763
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,8,915,2.2925469425934235
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,3,3450,2.3090030485566024
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,1,4407,4.677312957798259
+Banana,Pseudo-stem,Punjab,Bathinda,2,1727,4.653928430585247
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,1,4139,2.5566407917265366
+Banana,Pseudo-stem,Haryana,Rohtak,11,3815,1.7396200568273068
+Banana,Pseudo-stem,Punjab,Sangrur,10,941,4.616991363095712
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,1,3265,2.248356913231537
+Banana,Pseudo-stem,Punjab,Amritsar,8,1175,2.985847670022329
+Banana,Pseudo-stem,Punjab,Sangrur,1,3862,3.168228665825613
+Banana,Pseudo-stem,Haryana,Hisar,1,4624,1.990183045261737
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,1,3712,2.121041015756198
+Banana,Pseudo-stem,Haryana,Karnal,3,4133,1.6525527800282585
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,1,3355,4.500728305662968
+Banana,Pseudo-stem,Haryana,Rohtak,8,2707,4.571095338357562
+Banana,Pseudo-stem,Haryana,Karnal,12,4213,3.511127910511836
+Banana,Pseudo-stem,Punjab,Ludhiana,9,3160,1.8458644442852876
+Banana,Pseudo-stem,Punjab,Amritsar,9,3247,4.5996095987058405
+Banana,Pseudo-stem,Haryana,Hisar,2,2956,3.782172894505737
+Banana,Pseudo-stem,Haryana,Rohtak,2,1087,2.1796008707228176
+Banana,Pseudo-stem,Haryana,Sonipat,8,1418,4.879958313325137
+Banana,Pseudo-stem,Haryana,Sonipat,8,2293,2.8544296851535824
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,5,3787,2.65558313692677
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,8,3339,3.293176734314627
+Banana,Pseudo-stem,Punjab,Ludhiana,2,1848,2.9374872575531925
+Banana,Pseudo-stem,Haryana,Hisar,8,605,2.7173907225965612
+Banana,Pseudo-stem,Punjab,Ludhiana,8,1984,2.7243809179403486
+Banana,Pseudo-stem,Punjab,Bathinda,7,1187,2.1434670200264834
+Banana,Pseudo-stem,Punjab,Bathinda,6,4160,4.124044176478354
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,4,3755,4.950470024404325
+Banana,Pseudo-stem,Punjab,Ludhiana,3,3182,3.4618918508467704
+Banana,Pseudo-stem,Haryana,Sonipat,5,2010,4.048815888760413
+Banana,Pseudo-stem,Haryana,Rohtak,5,4049,4.316630091385307
+Banana,Pseudo-stem,Punjab,Amritsar,11,3670,2.5138645670542648
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,2,4695,2.9446242622410237
+Banana,Pseudo-stem,Haryana,Karnal,9,2696,3.616858801576925
+Banana,Pseudo-stem,Punjab,Ludhiana,3,4427,1.7501448050202426
+Banana,Pseudo-stem,Punjab,Bathinda,2,3422,3.646959307987806
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,11,1762,1.954115589637018
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,6,4506,2.472319634964702
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,8,2027,3.653911001598876
+Banana,Pseudo-stem,Haryana,Hisar,6,1300,3.4646269779091066
+Banana,Pseudo-stem,Punjab,Bathinda,11,4275,1.6599487835591176
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,5,4595,2.7092869897588554
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,5,1237,4.679859558944963
+Banana,Pseudo-stem,Punjab,Amritsar,11,1855,3.2943422985654487
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,8,2899,2.811752411860967
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,6,4520,2.1596841133718114
+Banana,Pseudo-stem,Punjab,Sangrur,8,3151,2.44584760723022
+Banana,Pseudo-stem,Haryana,Sonipat,6,1294,3.135208930609016
+Banana,Pseudo-stem,Haryana,Hisar,5,2162,2.1799524482393124
+Banana,Pseudo-stem,Haryana,Hisar,6,1307,3.8286529379265413
+Banana,Pseudo-stem,Uttar Pradesh,Meerut,1,3375,3.33692520761576
+Banana,Pseudo-stem,Punjab,Bathinda,10,601,2.5499521573358916
+Banana,Pseudo-stem,Punjab,Amritsar,4,1474,2.8446007724197315
+Banana,Pseudo-stem,Uttar Pradesh,Baghpat,10,1897,2.946690745591057
+Cotton,Stalk,Haryana,Rohtak,9,2906,2.8177116645732854
+Cotton,Stalk,Punjab,Amritsar,1,2990,1.6002692393220825
+Cotton,Stalk,Punjab,Sangrur,3,4329,3.1807862291057813
+Cotton,Stalk,Uttar Pradesh,Baghpat,5,2293,2.6285873652152913
+Cotton,Stalk,Punjab,Sangrur,12,634,3.0895796497952897
+Cotton,Stalk,Haryana,Hisar,4,3693,1.739666698524491
+Cotton,Stalk,Haryana,Sonipat,3,1265,3.379273827881675
+Cotton,Stalk,Punjab,Ludhiana,12,992,2.5938601826267043
+Cotton,Stalk,Uttar Pradesh,Baghpat,9,2237,2.711116971291168
+Cotton,Stalk,Haryana,Karnal,10,2601,2.9188145694083283
+Cotton,Stalk,Haryana,Karnal,10,4720,2.355562279457975
+Cotton,Stalk,Punjab,Bathinda,8,1606,1.8864660691953727
+Cotton,Stalk,Punjab,Sangrur,11,676,2.210659265531528
+Cotton,Stalk,Haryana,Rohtak,2,4059,2.331016323261901
+Cotton,Stalk,Punjab,Bathinda,11,1165,2.163144983518674
+Cotton,Stalk,Uttar Pradesh,Baghpat,7,2146,2.539767196010026
+Cotton,Stalk,Haryana,Karnal,5,3235,2.1349057395019018
+Cotton,Stalk,Uttar Pradesh,Baghpat,2,3144,2.1983632514101847
+Cotton,Stalk,Punjab,Sangrur,2,4178,2.8302535521565586
+Cotton,Stalk,Punjab,Bathinda,7,2348,2.507781510985711
+Cotton,Stalk,Haryana,Hisar,9,4623,2.3320557082702837
+Cotton,Stalk,Uttar Pradesh,Meerut,10,1039,1.5745519738530165
+Cotton,Stalk,Uttar Pradesh,Meerut,3,2792,2.4040216702324377
+Cotton,Stalk,Punjab,Bathinda,7,3106,3.3601691734463905
+Cotton,Stalk,Punjab,Amritsar,3,1267,2.7494591472295986
+Cotton,Stalk,Haryana,Karnal,9,3091,2.3558393478656345
+Cotton,Stalk,Haryana,Rohtak,6,1593,1.7665425382897886
+Cotton,Stalk,Uttar Pradesh,Meerut,2,1369,2.5716432018413906
+Cotton,Stalk,Haryana,Rohtak,4,3948,2.2073318048226724
+Cotton,Stalk,Uttar Pradesh,Baghpat,2,1955,1.5400068473303763
+Cotton,Stalk,Punjab,Sangrur,9,4106,3.17447658213322
+Cotton,Stalk,Haryana,Karnal,10,2640,1.607441457321138
+Cotton,Stalk,Uttar Pradesh,Meerut,2,3361,3.018402958412355
+Cotton,Stalk,Punjab,Sangrur,4,986,2.890228317639231
+Cotton,Stalk,Haryana,Karnal,7,3814,3.2618116732404707
+Cotton,Stalk,Haryana,Sonipat,8,2250,1.874982355424973
+Cotton,Stalk,Punjab,Bathinda,6,3496,1.9773441598102712
+Cotton,Stalk,Punjab,Amritsar,8,2217,2.3508716960179483
+Cotton,Stalk,Punjab,Ludhiana,7,4177,3.4612579634978413
+Cotton,Stalk,Punjab,Ludhiana,3,1916,2.110929612398647
+Cotton,Stalk,Uttar Pradesh,Meerut,11,679,2.7356176885483183
+Cotton,Stalk,Haryana,Karnal,10,801,2.022092635748712
+Cotton,Stalk,Uttar Pradesh,Meerut,8,669,3.2062173725417655
+Cotton,Stalk,Haryana,Rohtak,10,2682,3.4792276645065283
+Cotton,Stalk,Uttar Pradesh,Meerut,8,2359,1.9066263716827117
+Cotton,Stalk,Punjab,Sangrur,7,3290,2.9940609453402756
+Cotton,Stalk,Punjab,Amritsar,5,3984,2.243571708867897
+Cotton,Stalk,Haryana,Sonipat,6,4155,2.20868251645315
+Cotton,Stalk,Uttar Pradesh,Meerut,10,1824,2.7809706251888464
+Cotton,Stalk,Haryana,Karnal,5,2190,2.4804238120190965
+Cotton,Stalk,Uttar Pradesh,Meerut,12,1220,1.9787649054551248
+Cotton,Stalk,Punjab,Ludhiana,6,1905,2.956023974415496
+Cotton,Stalk,Uttar Pradesh,Baghpat,5,2082,2.673441575384999
+Cotton,Stalk,Uttar Pradesh,Meerut,8,4800,3.44946955902508
+Cotton,Stalk,Punjab,Amritsar,3,2411,1.5123517505233905
+Cotton,Stalk,Punjab,Bathinda,1,4916,2.4083831313366595
+Cotton,Stalk,Punjab,Sangrur,12,3581,1.5822274537215792
+Cotton,Stalk,Punjab,Amritsar,1,3618,2.2695666963228662
+Cotton,Stalk,Haryana,Karnal,6,1893,1.8825596521853951
+Cotton,Stalk,Punjab,Sangrur,6,896,2.2688348260113065
+Cotton,Stalk,Punjab,Sangrur,12,996,2.874665539622895
+Cotton,Stalk,Uttar Pradesh,Meerut,10,4288,2.747452941162552
+Cotton,Stalk,Haryana,Rohtak,3,2340,2.6023319382315053
+Cotton,Stalk,Haryana,Hisar,10,848,3.3304303085698432
+Cotton,Stalk,Punjab,Bathinda,8,3773,2.513868400020333
+Cotton,Stalk,Uttar Pradesh,Baghpat,2,2690,2.0541395341724846
+Cotton,Stalk,Haryana,Karnal,11,605,1.9870341335065342
+Cotton,Stalk,Uttar Pradesh,Meerut,8,1853,3.458436690403739
+Cotton,Stalk,Punjab,Sangrur,7,3471,2.5974933182961077
+Cotton,Stalk,Haryana,Hisar,6,2067,2.47240380366576
+Cotton,Stalk,Haryana,Sonipat,7,4846,2.341101164414555
+Cotton,Stalk,Punjab,Ludhiana,5,1105,2.0547732580794085
+Cotton,Stalk,Punjab,Sangrur,11,1944,2.594878939235022

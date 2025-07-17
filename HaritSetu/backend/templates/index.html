@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>KrishiMitra - HaritSetu Chatbot</title>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Pacifico&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Nunito', sans-serif;
+      background: #e6f4ea;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+
+    .chat-container {
+      background: #fff;
+      width: 100%;
+      max-width: 650px;
+      height: 90vh;
+      display: flex;
+      flex-direction: column;
+      border-radius: 20px;
+      box-shadow: 0 0 25px rgba(0, 128, 0, 0.2);
+      overflow: hidden;
+    }
+
+    .header {
+      background: #228B22;
+      color: white;
+      padding: 1rem;
+      font-size: 2rem;
+      font-weight: 700;
+      font-family: 'Pacifico', cursive;
+      text-align: center;
+    }
+    .chat-box {
+      flex: 1;
+      padding: 1rem;
+      overflow-y: auto;
+      background: #f5fff7;
+    }
+
+    .message {
+      max-width: 80%;
+      padding: 0.6rem 1rem;
+      margin: 0.5rem 0;
+      border-radius: 18px;
+      line-height: 1.5;
+      word-wrap: break-word;
+      white-space: pre-wrap;
+    }
+
+    .message.bot {
+      background: #d1f2c4;
+      align-self: flex-start;
+      border-top-left-radius: 0;
+    }
+
+    .message.user {
+      background: #b9e9c9;
+      align-self: flex-end;
+      border-top-right-radius: 0;
+      margin-left: auto;
+    }
+
+    .chat-form {
+      display: flex;
+      border-top: 1px solid #ddd;
+      padding: 0.75rem;
+      background: #fff;
+    }
+
+    .chat-form input {
+      flex: 1;
+      padding: 0.6rem 1rem;
+      border: 1px solid #ccc;
+      border-radius: 20px;
+      outline: none;
+      font-size: 1rem;
+    }
+
+    .chat-form button {
+      background: #228B22;
+      color: white;
+      border: none;
+      padding: 0.6rem 1rem;
+      margin-left: 0.5rem;
+      border-radius: 20px;
+      cursor: pointer;
+      font-weight: bold;
+    }
+
+    .chat-form button:hover {
+      background: #1e7e1e;
+    }
+  </style>
+</head>
+<body>
+  <div class="chat-container">
+    <div class="header">🌿 KrishiMitra</div>
+    <div class="chat-box" id="chat-box">
+      <div class="message bot">
+Hi there! I’m KrishiMitra, your helpful assistant. Ask me anything about HaritSetu!</div>
+    </div>
+    <form class="chat-form" id="chat-form">
+      <input type="text" id="user-input" placeholder="Type your message..." autocomplete="off" />
+      <button type="submit">Send</button>
+    </form>
+  </div>
+
+  <script>
+    const chatBox = document.getElementById('chat-box');
+    const chatForm = document.getElementById('chat-form');
+    const userInput = document.getElementById('user-input');
+
+    chatForm.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const message = userInput.value.trim();
+      if (!message) return;
+
+      addMessage('user', message);
+      userInput.value = '';
+
+      try {
+        const res = await fetch('/chat', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ message })
+        });
+
+        const data = await res.json();
+        addMessage('bot', data.reply);
+      } catch (err) {
+        addMessage('bot', '⚠️ Error connecting to KrishiMitra.');
+      }
+    });
+
+    userInput.addEventListener('keypress', (e) => {
+      if (e.key === 'Enter' && !e.shiftKey) {
+        e.preventDefault();
+        chatForm.dispatchEvent(new Event('submit'));
+      }
+    });
+
+    function addMessage(sender, text) {
+      const msg = document.createElement('div');
+      msg.classList.add('message', sender);
+      msg.innerText = text;
+      chatBox.appendChild(msg);
+      chatBox.scrollTop = chatBox.scrollHeight;
+    }
+  </script>
+</body>
+</html>
