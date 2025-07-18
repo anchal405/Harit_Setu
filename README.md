@@ -172,5 +172,9 @@ Open two terminals and run the following commands:
 **Terminal 1 – Frontend**
 ```bash
 npm run dev
+# Terminal 2 – Backend
+cd backend
+source venv/bin/activate
+uvicorn main:app --reload --port 8000
 
 
