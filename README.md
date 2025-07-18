@@ -145,6 +145,16 @@ Install dependencies and start the frontend server:
 ```bash
 npm install
 npm run dev
+```
+#### 3. Backend Setup
 
+Navigate to the backend folder, create a virtual environment, and start the backend server:
+
+```bash
+cd backend
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn main:app --reload --port 8000
 
 
