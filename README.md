@@ -156,5 +156,13 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn main:app --reload --port 8000
+```
+####4. Environment Variables
+
+Create a `.env` file in the root directory and add the following:
+
+```env
+VITE_API_URL=http://localhost:8000
+VITE_FLASK_URL=http://localhost:5000
 
 
