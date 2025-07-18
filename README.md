@@ -137,5 +137,13 @@ Fueled by curiosity, compassion, and creativity, we believe in crafting solution
 ```bash
 git clone https://github.com/your-username/haritsetu.git
 cd haritsetu
+### 2. Frontend Setup
+
+Install dependencies and start the frontend server:
+
+```bash
+npm install
+npm run dev
+
 
 
