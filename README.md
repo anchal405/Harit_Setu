@@ -120,3 +120,22 @@ Fueled by curiosity, compassion, and creativity, we believe in crafting solution
 
 **HaritSetu** is more than a project — it’s our mission to bridge the gap between rural challenges and modern technology, and to prove that meaningful change begins with purpose-driven innovation.
 
+##  Quick Start
+
+###  Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16+)
+- [Python](https://www.python.org/) (v3.8+)
+- [Git](https://git-scm.com/)
+
+---
+
+###  Installation
+
+#### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/haritsetu.git
+cd haritsetu
+
+
