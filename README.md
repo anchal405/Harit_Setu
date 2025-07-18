@@ -164,5 +164,13 @@ Create a `.env` file in the root directory and add the following:
 ```env
 VITE_API_URL=http://localhost:8000
 VITE_FLASK_URL=http://localhost:5000
+```
+### 5. Running the Application
+
+Open two terminals and run the following commands:
+
+**Terminal 1 – Frontend**
+```bash
+npm run dev
 
 
