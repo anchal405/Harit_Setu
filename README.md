@@ -135,7 +135,7 @@ Fueled by curiosity, compassion, and creativity, we believe in crafting solution
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/haritsetu.git
+git clone https://github.com/anchal405/Harit_Setu
 cd haritsetu
 ```
 ### 2. Frontend Setup
