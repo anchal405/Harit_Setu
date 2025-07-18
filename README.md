@@ -178,5 +178,22 @@ npm run dev
 cd backend
 source venv/bin/activate
 uvicorn main:app --reload --port 8000
+```
+### 6. Deployment
+
+#### Frontend (Vercel)
+
+To deploy the frontend on Vercel:
+
+```bash
+vercel --prod
+```
+#### Backend (Render)
+
+To deploy the backend on Render:
+
+```bash
+pip freeze > requirements.txt
+
 
 
