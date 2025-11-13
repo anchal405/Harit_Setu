@@ -6,7 +6,7 @@
 ##  System Architecture
 
 <p align="center">
-  <img src="assets/Haritsetu.drawio.png"/>
+  <img src="assets/HARITSETU.drawio-4.png"/>
 </p>
 
 
