@@ -61,7 +61,7 @@ The Haritसेतु platform combines AI, web development, real-time database 
 - **Training Data** – 1000+ real-world entries  
 - **Security** – Logic to prevent exploitation or unrealistic pricing
 
-### Chatbot (KrishiMitra)
+### Chatbot (Krishaमित्र)
 
 - **Flask-based NLP engine** – custom-built chatbot logic  
 - **Multilingual Support** – understands and responds in English, Hindi, and Hinglish  
@@ -90,9 +90,9 @@ This model empowers farmers to **negotiate confidently**, reduces dependency on 
 
 ---
 
-## KrishiMitra – The Multilingual Virtual Assistant
+## Krishaमित्र – The Multilingual Virtual Assistant
 
-**KrishiMitra** is an in-built chatbot designed to provide **simple, real-time support** to both farmers and buyers across language barriers. It helps users understand and navigate the platform without needing external help.
+**Krishaमित्र** is an in-built chatbot designed to provide **simple, real-time support** to both farmers and buyers across language barriers. It helps users understand and navigate the platform without needing external help.
 
 ### Core Features:
 - **Built with Flask** – Lightweight and custom-built NLP engine
@@ -105,7 +105,7 @@ This model empowers farmers to **negotiate confidently**, reduces dependency on 
 - **Firebase Integration** – Stores chat history and enables future mobile scalability
 - **Context-Aware Replies** – Tailored responses depending on user type (farmer/buyer)
 
-KrishiMitra makes HaritSetu **accessible to non-technical rural users** and builds trust through **language, relevance, and instant answers**.
+Krishaमित्र makes Haritसेतु **accessible to non-technical rural users** and builds trust through **language, relevance, and instant answers**.
 
 
 ## About the Team – Pixel Protocol
