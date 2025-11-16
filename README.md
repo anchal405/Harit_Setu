@@ -17,7 +17,7 @@
 - **Live Deployment:** [Visit HaritSetu](https://code-for-bharat-git-main-shanti-kumari-gautams-projects.vercel.app/)
 
 ---
-HaritSetu is a climate-first digital platform that bridges the gap between **farmers** and **eco-conscious buyers** for the responsible exchange of crop residues like straw, husk, and stalks.
+Haritसेतु is a climate-first digital platform that bridges the gap between **farmers** and **eco-conscious buyers** for the responsible exchange of crop residues like straw, husk, and stalks.
 
 Every year, thousands of tons of crop residues are burned, especially across North India, leading to toxic air pollution. HaritSetu offers a smart and sustainable alternative — helping farmers list their residues for sale and buyers to reuse them in industries like biofuel, compost, and packaging.
 
@@ -31,7 +31,7 @@ Developed under the theme **Sustainable Tech and Climate Innovation**, HaritSetu
 
 ## Tech Stack
 
-The HaritSetu platform combines AI, web development, real-time database sync, and chatbot integration to deliver a complete eco-tech solution.
+The Haritसेतु platform combines AI, web development, real-time database sync, and chatbot integration to deliver a complete eco-tech solution.
 
 ### Frontend
 
@@ -76,7 +76,7 @@ The HaritSetu platform combines AI, web development, real-time database sync, an
 
 ## AI Model – Smart Pricing with Fairness
 
-HaritSetu uses a regression-based machine learning model to **predict the price of crop residues** based on real-world agricultural factors. The goal is to ensure that farmers receive **fair, data-driven pricing** instead of relying on middlemen or guesswork.
+Haritसेतु uses a regression-based machine learning model to **predict the price of crop residues** based on real-world agricultural factors. The goal is to ensure that farmers receive **fair, data-driven pricing** instead of relying on middlemen or guesswork.
 
 ### Key Details:
 - **Algorithm:** Regression using Scikit-learn
@@ -118,7 +118,7 @@ What brings us together isn’t just code — it's our shared vision to build te
 
 Fueled by curiosity, compassion, and creativity, we believe in crafting solutions that are not just innovative, but also **inclusive**, **sustainable**, and **rooted in real-world needs**.
 
-**HaritSetu** is more than a project — it’s our mission to bridge the gap between rural challenges and modern technology, and to prove that meaningful change begins with purpose-driven innovation.
+**Haritसेतु** is more than a project — it’s our mission to bridge the gap between rural challenges and modern technology, and to prove that meaningful change begins with purpose-driven innovation.
 
 ##  Quick Start
 
