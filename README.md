@@ -1,4 +1,4 @@
-# HaritSetu – Sell Smart Stay Green, No Smoke In Between
+# Haritसेतु – Sell Smart Stay Green, No Smoke In Between
 <p align="center">
   <img src="assets/HaritSetu_Logo.png" alt="HaritSetu Logo" width="300"/>
 </p>
